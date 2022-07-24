@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @edwardclarke1
+- 👀 I’m interested in Crypto
+- 🌱 I’m currently learning Blockchain programming
